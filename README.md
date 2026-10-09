@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🏦 BranchFlow
@@ -9,9 +10,9 @@
 ![Power Query](https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge)
 ![Financial Reporting](https://img.shields.io/badge/Financial_Reporting-334155?style=for-the-badge)
 
-[![Watch the BranchFlow demo](https://img.youtube.com/vi/C1tumI_WpaQ/hqdefault.jpg)](https://www.youtube.com/watch?v=3h3Hl6exknc)
+[![Watch the BranchFlow Demo](https://img.youtube.com/vi/3h3Hl6exknc/hqdefault.jpg)](https://www.youtube.com/watch?v=3h3Hl6exknc)
 
-### ▶️ [Watch the complete project demonstration]([https://youtu.be/C1tumI_WpaQ](https://www.youtube.com/watch?v=3h3Hl6exknc)
+### ▶️ [Watch the Complete Project Demonstration](https://www.youtube.com/watch?v=3h3Hl6exknc)
 
 </div>
 
